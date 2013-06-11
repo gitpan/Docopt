@@ -28,7 +28,7 @@ no_index:
 provides:
   Docopt:
     file: lib/Docopt.pm
-    version: 0.01
+    version: 0.02
   Docopt::Argument:
     file: lib/Docopt.pm
   Docopt::BranchPattern:
@@ -74,4 +74,4 @@ resources:
   bugtracker: https://github.com/tokuhirom/Docopt/issues
   homepage: https://github.com/tokuhirom/Docopt
   repository: git://github.com/tokuhirom/Docopt.git
-version: 0.01
+version: 0.02

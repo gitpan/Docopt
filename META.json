@@ -60,7 +60,7 @@
    "provides" : {
       "Docopt" : {
          "file" : "lib/Docopt.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       },
       "Docopt::Argument" : {
          "file" : "lib/Docopt.pm"
@@ -122,5 +122,5 @@
          "web" : "https://github.com/tokuhirom/Docopt"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }

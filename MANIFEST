@@ -11,6 +11,8 @@ lib/Docopt/Util.pm
 t/00_compile.t
 t/Util.pm
 t/test_docopt.py.t
+t/testcases.docopt
+t/testcases.t
 t/unit.t
 META.yml
 MANIFEST
