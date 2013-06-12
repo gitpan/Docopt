@@ -3,6 +3,7 @@ abstract: 'Command-line interface description language'
 author:
   - 'tokuhirom <tokuhirom@gmail.com>'
 build_requires:
+  JSON::PP: 0
   Test::Fatal: 0
   Test::More: 0.98
 configure_requires:
@@ -28,7 +29,7 @@ no_index:
 provides:
   Docopt:
     file: lib/Docopt.pm
-    version: 0.02
+    version: 0.03
   Docopt::Argument:
     file: lib/Docopt.pm
   Docopt::BranchPattern:
@@ -74,4 +75,4 @@ resources:
   bugtracker: https://github.com/tokuhirom/Docopt/issues
   homepage: https://github.com/tokuhirom/Docopt
   repository: git://github.com/tokuhirom/Docopt.git
-version: 0.02
+version: 0.03
